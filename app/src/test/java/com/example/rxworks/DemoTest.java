@@ -11,6 +11,6 @@ public class DemoTest {
 
     @Test
     public void shouldThrowException() {
-        assertEquals(1, 7);
+        assertEquals(1, 8);
     }
 }
